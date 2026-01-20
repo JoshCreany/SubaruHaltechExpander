@@ -1,0 +1,216 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ST2378ETTR"
+   (description "STMicroelectronics ST2378ETTR, Logic Level Translator, Open Drain, Totem Pole, 1.71  5.5 V, 20-Pin TSSOP")
+   (family "ANA")
+   (package "SOP65P640X120-20N")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/st2378e.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Mouser Part Number" "511-ST2378ET")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST2378ETTR?qs=DUDHuK3gDFSwMxNsCLUurA%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "ST2378ETTR")
+   (gate
+    (symbol "ST2378ETTR")
+    (pin "VL" 1 PS)
+    (pin "I/OVL1" 2 PS)
+    (pin "I/OVCC2" 3 PS)
+    (pin "I/OVL3" 4 PS)
+    (pin "I/OVCC4" 5 PS)
+    (pin "I/OVL5" 6 PS)
+    (pin "I/OVCC6" 7 PS)
+    (pin "I/OVL7" 8 PS)
+    (pin "I/OVCC8" 9 PS)
+    (pin "GND" 10 PS)
+    (pin "VCC" 20 PS)
+    (pin "I/OVCC1" 19 PS)
+    (pin "I/OVL2" 18 PS)
+    (pin "I/OVCC3" 17 PS)
+    (pin "I/OVL4" 16 PS)
+    (pin "I/OVCC5" 15 PS)
+    (pin "I/OVL6" 14 PS)
+    (pin "I/OVCC7" 13 PS)
+    (pin "I/OVL8" 12 PS)
+    (pin "OE" 11 PS)
+   )
+  )
+  (symbol "ST2378ETTR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -1000) (pt 200 -1000) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -800) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -900) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -800) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -900) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP65P640X120-20N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.925 3.55)
+      (pt 3.925 3.55)
+      (pt 3.925 -3.55)
+      (pt -3.925 -3.55)
+      (pt -3.925 3.55))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.195 3.25)
+      (pt 2.195 3.25)
+      (pt 2.195 -3.25)
+      (pt -2.195 -3.25)
+      (pt -2.195 3.25))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.195 2.6)
+      (pt -1.545 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.845 3.25)
+      (pt 1.845 3.25)
+      (pt 1.845 -3.25)
+      (pt -1.845 -3.25)
+      (pt -1.845 3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.675 3.5)
+      (pt -2.195 3.5))))
+   (leg 1 (pt -2.935 2.925) (padstack 0))
+   (leg 2 (pt -2.935 2.275) (padstack 0))
+   (leg 3 (pt -2.935 1.625) (padstack 0))
+   (leg 4 (pt -2.935 0.975) (padstack 0))
+   (leg 5 (pt -2.935 0.325) (padstack 0))
+   (leg 6 (pt -2.935 -0.325) (padstack 0))
+   (leg 7 (pt -2.935 -0.975) (padstack 0))
+   (leg 8 (pt -2.935 -1.625) (padstack 0))
+   (leg 9 (pt -2.935 -2.275) (padstack 0))
+   (leg 10 (pt -2.935 -2.925) (padstack 0))
+   (leg 11 (pt 2.935 -2.925) (padstack 0))
+   (leg 12 (pt 2.935 -2.275) (padstack 0))
+   (leg 13 (pt 2.935 -1.625) (padstack 0))
+   (leg 14 (pt 2.935 -0.975) (padstack 0))
+   (leg 15 (pt 2.935 -0.325) (padstack 0))
+   (leg 16 (pt 2.935 0.325) (padstack 0))
+   (leg 17 (pt 2.935 0.975) (padstack 0))
+   (leg 18 (pt 2.935 1.625) (padstack 0))
+   (leg 19 (pt 2.935 2.275) (padstack 0))
+   (leg 20 (pt 2.935 2.925) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.45 1.48 0 0 0))
+   )
+   (model "ST2378ETTR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

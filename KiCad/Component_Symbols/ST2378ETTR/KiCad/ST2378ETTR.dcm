@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST2378ETTR
+D STMicroelectronics ST2378ETTR, Logic Level Translator, Open Drain, Totem Pole, 1.71  5.5 V, 20-Pin TSSOP
+K
+F https://www.st.com/resource/en/datasheet/st2378e.pdf
+$ENDCMP
+#
+#End Doc Library

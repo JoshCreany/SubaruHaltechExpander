@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ST_NFC_Micro")(type "KiCad")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/ST_NFC_Micro/ST25R3920B-AQWT.kicad_sym")(options "")(descr ""))
+  (lib (name "TI_12V_5V_Logic_Shifter")(type "KiCad")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/TI_12V_5V_Logic_Shifter/CD40109BPWR.kicad_sym")(options "")(descr ""))
+  (lib (name "ST_5V_3_3V_Shifter")(type "KiCad")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/ST_5V_3_3V_Shifter/ST2378ETTR.kicad_sym")(options "")(descr ""))
+  (lib (name "AD_Op_Amp")(type "KiCad")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/AD_Op_Amp/OP07CSZ.kicad_sym")(options "")(descr ""))
+  (lib (name "TE_23_Pin_AMP")(type "Legacy")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/TE_23_Pin_AMP/770669-1.lib")(options "")(descr ""))
+  (lib (name "TE_35_Pin_AMP")(type "Legacy")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/TE_35_Pin_AMP/1-776180-1.lib")(options "")(descr ""))
+  (lib (name "TE_135_Pin_ECU_EFI")(type "Legacy")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/TE_135_Pin_ECU_EFI/6376430-2.lib")(options "")(descr ""))
+  (lib (name "ST_12V_5V_LDO")(type "KiCad")(uri "C:/Users/joshc/Google Drive/Personal Projects/Ruby/Haltech/Microcontroller/ComponentLibraries/ST_12V_5V_LDO/L7805CDT-TR.kicad_sym")(options "")(descr ""))
+)

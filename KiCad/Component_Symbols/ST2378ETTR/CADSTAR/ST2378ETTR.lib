@@ -1,0 +1,16 @@
+.ST2378ETTR :1 ;STMicroelectronics ST2378ETTR, Logic Level Translator, Open Drain, Totem Pole, 1.71  5.5 V, 20-Pin TSSOP
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="VL" 2="I/OVL1" 3="I/OVCC2" 4="I/OVL3" 5="I/OVCC4" 6="I/OVL5" 7="I/OVCC6" 8="I/OVL7" 9="I/OVCC8" 10="GND" 11="OE" 12="I/OVL8" 13="I/OVCC7" 14="I/OVL6" 15="I/OVCC5" 16="I/OVL4" 17="I/OVCC3" 18="I/OVL2" 19="I/OVCC1" 20="VCC"
+*MXP 20
+*DFN ST2378ETTR
+~!Mouser Part Number (511-ST2378ET)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST2378ETTR?qs=DUDHuK3gDFSwMxNsCLUurA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST2378ETTR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/st2378e.pdf)
+~!Height (1.2mm)
+~!3D_Model (ST2378ETTR)
+ST2378ETTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

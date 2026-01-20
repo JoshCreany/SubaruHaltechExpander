@@ -1,0 +1,2 @@
+../Core/Src/cruise_control_stalk.c:37:6:CCStalkInit	4	static
+../Core/Src/cruise_control_stalk.c:43:6:CCStalkProcessButtons	40	static

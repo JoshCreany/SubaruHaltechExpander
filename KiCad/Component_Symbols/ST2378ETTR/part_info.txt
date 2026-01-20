@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST2378ETTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=3.1
+Released=2019-03-05 10:16:59
+Downloaded=2026-01-11 02:26:56
+3D=Y
